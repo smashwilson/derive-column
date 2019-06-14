@@ -14,7 +14,7 @@ cd derive-column
 Get-DerivedColumn
 ```
 
-Otherwise, you can always copy and paste the [raw view]() of the `derive-column.ps1` file from this repo into an open terminal and call the function that way.
+Otherwise, you can always copy and paste the [raw view](https://raw.githubusercontent.com/smashwilson/derive-column/master/derive-column.ps1) of the `derive-column.ps1` file from this repo into an open terminal and call the function that way.
 
 ## Usage
 
