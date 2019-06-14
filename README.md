@@ -26,7 +26,7 @@ Get-DerivedColumn
     -InField "Column Two"
     -OutCSV .\out.csv
     -OutField "Modified"
-    -Pattern ".*(\d\d)\d.*"
+    -Pattern '.*(\d\d)\d.*'
     -Replacement 'just $1'
 ```
 
